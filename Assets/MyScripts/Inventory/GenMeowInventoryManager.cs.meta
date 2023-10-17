@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e9d39a558876f834782f95e18e753532
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buffItem_DB: {fileID: 11400000, guid: 5778100bc2b39b74fb16fc3e791cce61, type: 2}
+  - meowBall_DB: {fileID: 11400000, guid: 38a50a432f3e06b4d8c31d9f3d7cafb7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

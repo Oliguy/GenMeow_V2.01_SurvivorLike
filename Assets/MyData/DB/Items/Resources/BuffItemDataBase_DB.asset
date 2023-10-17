@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4abfa4f4a879ed944be04721f77a59b6, type: 3}
+  m_Name: BuffItemDataBase_DB
+  m_EditorClassIdentifier: 
+  itemDataList:
+  - itemGameObject: {fileID: 2927666128969745874, guid: fe2f873bcf7fc344e9902634708ea226,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: ab5a2fa94cf71e24cb643a433ce35a1e,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: a109271c85bb67d4b8b1005bcb9053f8,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: e05536ea265c56b44b95145e93757390,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 999f16a4297948a4d9ccb113e5ae74fd,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: b794004b5e9205a4897a268995834c91,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 550cf35dfc0770044bd10fe70e075ed4,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 33ed61510f4e1394494ae49561aae16c,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c53700adf9458174996b489ca8259739,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 0de9c184fa7063446a80ff9fd2b143a0,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c0914d4ba8913484d83b15b343657c02,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 8f7117bd3dee7fb4190ac081ab1d0374,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: aad59c10319c9254485ae177e7b1edd4,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: dcc42c7092252524ca1644efbd8bb129,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 34d6bce283bc551449e9b528798e7252,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 3a0b81c5a7ff6b64caa5ac578b098b9a,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: ba46c2913728ff245b5a395182b61bdc,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 7b117fcef6c14a944930cfe55c5adc5f,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: dc22126022cc10c4cb2d9ec964a07608,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 97ae3aae813e9db439531363948dcd4a,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c87343dfd7b3e554495e22cc2692c317,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: a2f73f2a33ab594448ddd998f83e81fb,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 026d29ccd2039f04e84ca28f661fadd3,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: f155c83bd8fc3ab48b90c5c698146ad4,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 01d293d01048e904691719051a4fa40f,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: d15b833400db72042a3803c53451dbcd,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: f9916a892dc9b1f449c6da7a5fee2c74,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 9df3fc339b6dcc647b7f19009c9c75a0,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 7b770501057a89741a56a66e173f92cb,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 6494d643d8a91d445a19c70bf8f4cde3,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 166686cd67327344ca69975acdfb5925,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 412aec9e3f721b64dad8e424319c3acd,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: a3904860a9f478e4baa36bb71de03b9b,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 1c83b268bc5086a4c8d03298b3071027,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 25dd52cd0eb89b846aef348b09c91151,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c04922d48a9c64c46a6dc2938b87229c,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: d3421359e3d1a8245921629ad357cc31,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 759b46fd741b1b2429ac34d697712a86,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c38b4b54282d52e48b50cce0a6026326,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 97b34c78f2c8c2b49a1b10df3df4912a,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 305328f8aaf411b4aa416849d3c2175d,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 00ca8193ec8458e4e99c9c5801b9c3a3,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: db5b65d16157b144e8a4c81a1f172ef0,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 0f37209f5ec0dbb40a5d35c390ca7012,
+      type: 3}
+  GrayItems:
+  - itemGameObject: {fileID: 2927666128969745874, guid: fe2f873bcf7fc344e9902634708ea226,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: ab5a2fa94cf71e24cb643a433ce35a1e,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: a109271c85bb67d4b8b1005bcb9053f8,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: e05536ea265c56b44b95145e93757390,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 999f16a4297948a4d9ccb113e5ae74fd,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: b794004b5e9205a4897a268995834c91,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 550cf35dfc0770044bd10fe70e075ed4,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 33ed61510f4e1394494ae49561aae16c,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c53700adf9458174996b489ca8259739,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 0de9c184fa7063446a80ff9fd2b143a0,
+      type: 3}
+  GreenItems:
+  - itemGameObject: {fileID: 2927666128969745874, guid: c0914d4ba8913484d83b15b343657c02,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 8f7117bd3dee7fb4190ac081ab1d0374,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: aad59c10319c9254485ae177e7b1edd4,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: dcc42c7092252524ca1644efbd8bb129,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 34d6bce283bc551449e9b528798e7252,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 3a0b81c5a7ff6b64caa5ac578b098b9a,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: ba46c2913728ff245b5a395182b61bdc,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 7b117fcef6c14a944930cfe55c5adc5f,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: dc22126022cc10c4cb2d9ec964a07608,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 97ae3aae813e9db439531363948dcd4a,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c87343dfd7b3e554495e22cc2692c317,
+      type: 3}
+  BlueItems:
+  - itemGameObject: {fileID: 2927666128969745874, guid: a2f73f2a33ab594448ddd998f83e81fb,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 026d29ccd2039f04e84ca28f661fadd3,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: f155c83bd8fc3ab48b90c5c698146ad4,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 01d293d01048e904691719051a4fa40f,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: d15b833400db72042a3803c53451dbcd,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: f9916a892dc9b1f449c6da7a5fee2c74,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 9df3fc339b6dcc647b7f19009c9c75a0,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 7b770501057a89741a56a66e173f92cb,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 6494d643d8a91d445a19c70bf8f4cde3,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 166686cd67327344ca69975acdfb5925,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 412aec9e3f721b64dad8e424319c3acd,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: a3904860a9f478e4baa36bb71de03b9b,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 1c83b268bc5086a4c8d03298b3071027,
+      type: 3}
+  PurpleItems:
+  - itemGameObject: {fileID: 2927666128969745874, guid: 25dd52cd0eb89b846aef348b09c91151,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c04922d48a9c64c46a6dc2938b87229c,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: d3421359e3d1a8245921629ad357cc31,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 759b46fd741b1b2429ac34d697712a86,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: c38b4b54282d52e48b50cce0a6026326,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 97b34c78f2c8c2b49a1b10df3df4912a,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 305328f8aaf411b4aa416849d3c2175d,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: 00ca8193ec8458e4e99c9c5801b9c3a3,
+      type: 3}
+  - itemGameObject: {fileID: 2927666128969745874, guid: db5b65d16157b144e8a4c81a1f172ef0,
+      type: 3}
+  GoldenItems:
+  - itemGameObject: {fileID: 2927666128969745874, guid: 0f37209f5ec0dbb40a5d35c390ca7012,
+      type: 3}

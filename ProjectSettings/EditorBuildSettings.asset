@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_MHY.unity
+    guid: 6f097b000de4390479e295e1ff32fd6e
+  - enabled: 1
+    path: Assets/Scenes/GenMeowMainMenu.unity
+    guid: 683ec95958c88e14ab4d0792b68bc568
+  - enabled: 1
+    path: Assets/Scenes/GenMeowSelectHeroScene.unity
+    guid: 17743b641c6473b4380e2da5ee00e327
+  - enabled: 1
+    path: Assets/Scenes/GenMeowMain.unity
+    guid: 529b7246d0d170547a51266f86f886f6
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 1baf8a5fdae79c44eb2393122a401f28
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 366cb948e3bc83a47b3542f7bea3c524
+  - enabled: 1
+    path: Assets/Scenes/ControlUI.unity
+    guid: 24906a803069bfd42b5fa3047d86ca1a
+  m_configObjects: {}
